@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/redoc-dev/redoc-dev.r-universe.dev
 	branch = HEAD
+[submodule "pkgdown"]
+	path = pkgdown
+	url = https://github.com/r-lib/pkgdown
+	registered = false
 [submodule "redoc"]
 	path = redoc
 	url = https://github.com/redoc-dev/redoc
